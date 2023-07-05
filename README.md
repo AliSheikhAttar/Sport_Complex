@@ -5,6 +5,7 @@ different teams in different fields can register into it and play in leauge and 
 - a game calendar in which every game between teams in different fiealds is scheduled<br />
 - a ticket selling system wich allows fans to buy ticket to spectate the game in the complex<br />
 Designing EER ,relational model and it's database in Sql Server.
-n.[ ] To do<br />
-n. [] Done<br />
+1.[ ] To do<br />
+2. [x] Done<br />
 3. [] Also done<br />
+
