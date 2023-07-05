@@ -10,6 +10,6 @@ Designing EER ,Relational model and it's database<br/>
 - **Create, Insert, Updating rows and Columns**<br />
 - **Simple to Complex Queries**<br />
 - **Constraints, Triggers**<br />
-- **Useful Views, Procedures, Functions**<br />
+- **Useful Views, Procedures, Functions**<br /><br />
 Database implemented in Sqlserver<br />
 ER and Relational model drawn in Edraw Max
