@@ -5,7 +5,7 @@ implement and design Sport complex data base that contains following features : 
 - a game calendar in which every game between teams in different fiealds is scheduled<br />
 - a ticket selling system wich allows fans to buy ticket to spectate the game in the complex<br /><br />
 Designing EER ,Relational model and it's database<br/>
-## Database includes
+## Database 
 - Create, Insert, Updating rows and Columns, Simple to Complex Queries,  Constraints, Triggers, useful Views, Procedures, Functions<br />
 Database implemented in Sqlserver<br />
 ER and Relational model drawn in Edraw Max
